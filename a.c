@@ -8,6 +8,12 @@ ddddddddddddddddd
 }
 
 
+    irintf("ni hao ");
+    printf("ni hao ");
+    printf("ni hao ");
+    printf("ni hao ");
+    printf("ni hao ");
+    printf("ni hao ");
 
 
 
